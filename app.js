@@ -10,4 +10,9 @@ const getFacts=async()=>{
 
    let response=await fetch(URL);
    console.log(response.status);
+   
+   //AJAX is Asyncronous JS & XML
+   //JSON is JavaScript Object Notation
+   
+
 }
